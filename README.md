@@ -121,13 +121,6 @@ Positive Sentiment
 * Enhance UI design
 * Implement deep learning models like LSTM or BERT
 
----
-
-## Pictorial Representation
-
-"C:\Users\HP\OneDrive\圖片\Screenshots\Screenshot (258).png"
-"C:\Users\HP\OneDrive\圖片\Screenshots\Screenshot (257).png"
-"C:\Users\HP\OneDrive\圖片\Screenshots\Screenshot (256).png"
 
 ---
 
