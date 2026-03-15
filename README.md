@@ -123,6 +123,14 @@ Positive Sentiment
 
 ---
 
+## Pictorial Representation
+
+"C:\Users\HP\OneDrive\圖片\Screenshots\Screenshot (258).png"
+"C:\Users\HP\OneDrive\圖片\Screenshots\Screenshot (257).png"
+"C:\Users\HP\OneDrive\圖片\Screenshots\Screenshot (256).png"
+
+---
+
 ## Author
 
 Bhoomika Saxena
